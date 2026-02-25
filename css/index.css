@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(95, 43, 163);
+}
+ul{ display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 18px;
+
+}
+a{
+    color: rgb(245, 239, 239);
+    text-decoration: none;
+}
